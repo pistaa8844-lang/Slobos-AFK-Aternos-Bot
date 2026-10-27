@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Bookincraft.aternos.me:48108",
+    "port": 48108,
     "version": "",
     "try-creative": false
   },
